@@ -2,7 +2,7 @@ NB Arduino cape used pins
 
 P8
 1, 2 - GND
-12 - Reset
+12 - Reset (formerly pin 3 in V1.1&V1.2)
 
 P9
  1,  2 - GND
