@@ -1,0 +1,14 @@
+NB Arduino cape used pins
+
+P8
+1, 2 - GND
+3 - Reset
+
+P9
+ 1,  2 - GND
+ 3,  4 - 3.3V
+ 7,  8 - 5V
+    24 - UART1_TXD
+    26 - UART1_RXD
+43, 44 - GND
+45, 46 - GND
